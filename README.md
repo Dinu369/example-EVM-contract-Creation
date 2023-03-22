@@ -1,6 +1,3 @@
-# example-EVM-contract-Creation
-you can use to test compile and deploy
-
 /**
  *Submitted for verification at Etherscan.io on 2020-09-02
 */
